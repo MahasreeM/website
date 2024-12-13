@@ -430,7 +430,8 @@ Publish the website in the given URL.
                     <input type="submit" value="Submit Reservation">
                 </form>
             </div>
-        </div>
+        </div>![Screenshot (90)](https://github.com/user-attachments/assets/1da9eeb0-1da9-47e0-a26b-a4fd74e68c8a)
+
     </body>
     </html>
 
@@ -442,7 +443,7 @@ Publish the website in the given URL.
 ![Screenshot (87)](https://github.com/user-attachments/assets/f22d37a4-2707-42f9-9558-8817155f1334)
 ![Screenshot (88)](https://github.com/user-attachments/assets/4560500f-905d-4c0c-a62b-3a85f0a86aad)
 ![Screenshot (89)](https://github.com/user-attachments/assets/6e03486f-d625-4a68-9b64-6a9cd0a316e2)
-![Screenshot (90)](https://github.com/user-attachments/assets/13654e4e-825b-4f67-918a-f8787fa6d2c0)
+![Screenshot (90)](https://github.com/user-attachments/assets/d67b09e9-28f3-4685-be41-93ea5a3e4a8a)
 
 
 
